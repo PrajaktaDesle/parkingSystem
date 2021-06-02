@@ -1,1 +1,2 @@
 # parkingSystem
+These project has been developed in php and POSTGRESS SQL server. The main objective for develop-ing this project is to provide easier parking space to customer. It can manage all details of parking, ar-ea, customer details, registration. It also provide time to time current status of parking place and help customer who needs  space to  park vehicle by giving the necessary details for the desire area and city. If registration is done successfully the customer can apply for available parking place.  
